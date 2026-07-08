@@ -58,10 +58,8 @@ Analysis includes:
 5. Year-over-Year analysis
 
 📊 Dashboard Pages
- 1. Executive Overview
-
-    
-    ![image alt]https://github.com/pradnesh369/airline-delay-analysis/blob/79ab0a604b77c7fae410c543ca9293847a157693/Executive%20Overview.png
+ # 1. Executive Overview  
+  ![image alt]https://github.com/pradnesh369/airline-delay-analysis/blob/79ab0a604b77c7fae410c543ca9293847a157693/Executive%20Overview.png
     
 Provides a high-level summary of airline performance.
 
@@ -83,11 +81,11 @@ Visuals include:
 - Airline Performance
 
 
-2. Airline Performance Analysis
+# 2. Airline Performance Analysis
+ ![image alt]https://github.com/pradnesh369/airline-delay-analysis/blob/79ab0a604b77c7fae410c543ca9293847a157693/Airline%20Performance.png
+
 
 Compares airlines based on operational performance.
-
- ![image alt]https://github.com/pradnesh369/airline-delay-analysis/blob/79ab0a604b77c7fae410c543ca9293847a157693/Airline%20Performance.png
  
 Visuals include:
 
