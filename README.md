@@ -60,7 +60,7 @@ Analysis includes:
 📊 Dashboard Pages
  1. Executive Overview
     image
-    Executive Overview.png
+    ![image alt]https://github.com/pradnesh369/airline-delay-analysis/blob/7b6500e97aad7699390777f6c748960292c27501/Executive%20Overview.png
     
 Provides a high-level summary of airline performance.
 
@@ -86,7 +86,7 @@ Visuals include:
 
 Compares airlines based on operational performance.
 image
-Airline Performance.png
+ ![image alt]https://github.com/pradnesh369/airline-delay-analysis/blob/7b6500e97aad7699390777f6c748960292c27501/Airline%20Performance.png
 
 Visuals include:
 
