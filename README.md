@@ -59,7 +59,9 @@ Analysis includes:
 
 📊 Dashboard Pages
  1. Executive Overview
-
+    image
+    Executive Overview.png
+    
 Provides a high-level summary of airline performance.
 
  KPIs
@@ -83,6 +85,8 @@ Visuals include:
 2. Airline Performance Analysis
 
 Compares airlines based on operational performance.
+image
+Airline Performance.png
 
 Visuals include:
 
