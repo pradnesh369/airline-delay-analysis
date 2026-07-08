@@ -57,15 +57,42 @@ Analysis includes:
 4. Correlation analysis
 5. Year-over-Year analysis
 
-Dashboard Features
-1. Delay Rate Analysis
-2. Cancellation Rate Analysis
-3. Diversion Rate Analysis
-4. Airport Performance
-5. Airline Performance
-6. Delay Cause Breakdown
-7. Interactive Filters
+📊 Dashboard Pages
+ 1. Executive Overview
 
+Provides a high-level summary of airline performance.
+
+ KPIs
+
+- Total Flights
+- Security elayed Flights
+- Diversion Rate
+- NAS Delay Rate
+- Cancellation Rate
+- Average Delay Time
+
+Visuals include:
+
+- KPI Cards
+- airport with Highest late aircraft Delay
+- Delay flights by airline
+- state
+- Airline Performance
+
+
+2. Airline Performance Analysis
+
+Compares airlines based on operational performance.
+
+Visuals include:
+
+- Top Airline by Cancellation Rate
+- Airline Performance Ranking
+- Operational Performance Ranking
+- Airline Share NAS Delay
+- delay cause distribution by airline
+
+  
 Key Insights
 
 Example findings:
