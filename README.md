@@ -59,7 +59,7 @@ Analysis includes:
 
 📊 Dashboard Pages
  # 1. Executive Overview  
-  ![Executive Overview](https://github.com/pradnesh369/airline-delay-analysis/blob/79ab0a604b77c7fae410c543ca9293847a157693/Executive%20Overview.png)
+  ![Executive Overview](https://github.com/pradnesh369/airline-delay-analysis/blob/f2a41f75dc6306818f0c3020e6e01ee45a55f8ad/Executive%20Overview.png)
     
 Provides a high-level summary of airline performance.
 
