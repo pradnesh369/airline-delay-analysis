@@ -82,7 +82,7 @@ Visuals include:
 
 
 # 2. Airline Performance Analysis
- ![Airline Performance](https://github.com/pradnesh369/airline-delay-analysis/blob/79ab0a604b77c7fae410c543ca9293847a157693/Airline%20Performance.png)
+ ![Airline Performance](https://github.com/pradnesh369/airline-delay-analysis/blob/af480a4b5f4e63cf8d7355cb05491874ed05bad9/Airline%20Performance.png)
 
 
 Compares airlines based on operational performance.
