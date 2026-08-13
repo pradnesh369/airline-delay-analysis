@@ -86,6 +86,7 @@ Visuals include:
 
 
 Compares airlines based on operational performance.
+
 KPI
 - Average Delay Rate
 - Cancellation Rate
