@@ -86,14 +86,20 @@ Visuals include:
 
 
 Compares airlines based on operational performance.
+KPI
+- Average Delay Rate
+- Cancellation Rate
+- Diversion Rate
+- Performance Score
  
 Visuals include:
 
 - Top Airline by Cancellation Rate
 - Airline Performance Ranking
-- Operational Performance Ranking
+- Top Airline by Weather Delay
+- Top Airline by Carrier Delay
 - Airline Share NAS Delay
-- delay cause distribution by airline
+- Top Airline By Security Delay
 
   
 Key Insights
